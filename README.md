@@ -33,6 +33,10 @@ This is the backend for the Smart Notes workspace app. Built with Express.js and
 
 The server will start on port 5000 (or whatever you set in .env).
 
+## API Documentation (Swagger)
+
+Once the server is running, visit `http://localhost:5000/api-docs` for interactive API docs. You can test all endpoints directly from the browser.
+
 ## Environment Variables
 
 | Variable | Description |
